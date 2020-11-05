@@ -1,0 +1,20 @@
+<map id="souffle::ast::Argument" name="souffle::ast::Argument">
+<area shape="rect" id="node1" title="An abstract class for arguments." alt="" coords="730,292,897,384"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1ast_1_1_aggregator.html" title="Defines the aggregator class." alt="" coords="64,432,243,685"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1ast_1_1_constant.html" title="Abstract constant class." alt="" coords="267,491,427,627"/>
+<area shape="rect" id="node8" href="$classsouffle_1_1ast_1_1_counter.html" title="counter functor (incrementing a value after each invocation)" alt="" coords="451,513,605,605"/>
+<area shape="rect" id="node9" href="$classsouffle_1_1ast_1_1_subroutine_argument.html" title="Defines the argument class for subrountines." alt="" coords="629,483,811,634"/>
+<area shape="rect" id="node10" href="$classsouffle_1_1ast_1_1_term.html" title="Defines an abstract term class used for functors and other constructors." alt="" coords="835,461,978,656"/>
+<area shape="rect" id="node16" href="$classsouffle_1_1ast_1_1_type_cast.html" title="Defines a type cast class for expressions." alt="" coords="1002,454,1163,663"/>
+<area shape="rect" id="node17" href="$classsouffle_1_1ast_1_1_unnamed_variable.html" title="Unnamed variable class." alt="" coords="1188,513,1407,605"/>
+<area shape="rect" id="node18" href="$classsouffle_1_1ast_1_1_variable.html" title="Named variable class." alt="" coords="1431,483,1585,634"/>
+<area shape="rect" id="node2" href="$classsouffle_1_1ast_1_1_node.html" title="Abstract class for syntactic elements in an input program." alt="" coords="742,5,885,244"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1ast_1_1_nil_constant.html" title="Defines the nil constant." alt="" coords="5,770,184,862"/>
+<area shape="rect" id="node6" href="$classsouffle_1_1ast_1_1_numeric_constant.html" title="Numeric Constant." alt="" coords="209,733,423,899"/>
+<area shape="rect" id="node7" href="$classsouffle_1_1ast_1_1_string_constant.html" title="String constant class." alt="" coords="447,763,646,869"/>
+<area shape="rect" id="node11" href="$classsouffle_1_1ast_1_1_branch_init.html" title="Initialization of ADT instance." alt="" coords="671,748,839,884"/>
+<area shape="rect" id="node12" href="$classsouffle_1_1ast_1_1_functor.html" title="Abstract functor class." alt="" coords="863,755,1014,877"/>
+<area shape="rect" id="node15" href="$classsouffle_1_1ast_1_1_record_init.html" title="Defines a record initialization class." alt="" coords="1039,763,1207,869"/>
+<area shape="rect" id="node13" href="$classsouffle_1_1ast_1_1_intrinsic_functor.html" title="Intrinsic Functor class for functors are in&#45;built." alt="" coords="729,947,932,1185"/>
+<area shape="rect" id="node14" href="$classsouffle_1_1ast_1_1_user_defined_functor.html" title="User&#45;Defined functor class." alt="" coords="957,983,1139,1149"/>
+</map>

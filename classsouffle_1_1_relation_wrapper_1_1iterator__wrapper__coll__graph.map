@@ -1,0 +1,11 @@
+<map id="souffle::RelationWrapper&lt; RelType &gt;::iterator_wrapper" name="souffle::RelationWrapper&lt; RelType &gt;::iterator_wrapper">
+<area shape="rect" id="node1" title=" " alt="" coords="143,637,361,788"/>
+<area shape="rect" id="node2" href="$classsouffle_1_1_relation_1_1iterator__base.html" title="Abstract iterator class." alt="" coords="5,365,149,560"/>
+<area shape="rect" id="node3" title=" " alt="" coords="32,108,107,185"/>
+<area shape="rect" id="node4" href="$classsouffle_1_1tuple.html" title="Defines a tuple for the OO interface such that relations with varying columns can be accessed." alt="" coords="289,351,413,575"/>
+<area shape="rect" id="node5" href="$classsouffle_1_1_relation.html" title="Object&#45;oriented wrapper class for Souffle&#39;s templatized relations." alt="" coords="131,5,288,288"/>
+<area shape="rect" id="node6" title=" " alt="" coords="312,108,379,185"/>
+<area shape="rect" id="node7" title=" " alt="" coords="403,108,463,185"/>
+<area shape="rect" id="node8" title=" " alt="" coords="487,108,662,185"/>
+<area shape="rect" id="node9" title=" " alt="" coords="437,424,507,501"/>
+</map>

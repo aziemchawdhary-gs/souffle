@@ -1,0 +1,6 @@
+<map id="souffle::ast::analysis::TypeConstraintsAnalysis::visitSink" name="souffle::ast::analysis::TypeConstraintsAnalysis::visitSink">
+<area shape="rect" id="node1" title=" " alt="" coords="5,85,195,141"/>
+<area shape="rect" id="node2" href="$classsouffle_1_1ast_1_1analysis_1_1_constraint_analysis.html#ab5ec7ba5e63bb01178d3367e898f18e4" title="Adds another constraint to the internally maintained list of constraints." alt="" coords="243,5,433,61"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1ast_1_1analysis_1_1_constraint_analysis.html#a932b8be0a8de453ba7a96db8f00c9473" title="A utility function mapping an Argument to its associated analysis variable." alt="" coords="257,85,419,141"/>
+<area shape="rect" id="node4" href="$namespacesouffle_1_1ast_1_1analysis.html#a7a59a824c8f1a160e57decfc92341203" title="Determines whether type a is a subtype of type b." alt="" coords="260,166,416,207"/>
+</map>

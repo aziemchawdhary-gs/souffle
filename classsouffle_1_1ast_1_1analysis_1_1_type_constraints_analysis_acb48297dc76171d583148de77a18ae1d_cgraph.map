@@ -1,0 +1,5 @@
+<map id="souffle::ast::analysis::TypeConstraintsAnalysis::visitBinaryConstraint" name="souffle::ast::analysis::TypeConstraintsAnalysis::visitBinaryConstraint">
+<area shape="rect" id="node1" title=" " alt="" coords="5,39,195,95"/>
+<area shape="rect" id="node2" href="$classsouffle_1_1ast_1_1analysis_1_1_constraint_analysis.html#a932b8be0a8de453ba7a96db8f00c9473" title="A utility function mapping an Argument to its associated analysis variable." alt="" coords="243,5,405,61"/>
+<area shape="rect" id="node3" href="$namespacesouffle.html#a850ddc94302e9b170a98729a22a4c8fa" title="Applies a function to each element of a vector and returns the results." alt="" coords="273,85,375,112"/>
+</map>

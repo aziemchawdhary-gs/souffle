@@ -1,0 +1,6 @@
+<map id="souffle::ast::analysis::TypeConstraintsAnalysis::visitNumericConstant" name="souffle::ast::analysis::TypeConstraintsAnalysis::visitNumericConstant">
+<area shape="rect" id="node1" title=" " alt="" coords="5,31,195,87"/>
+<area shape="rect" id="node2" href="$classsouffle_1_1ast_1_1analysis_1_1_type_environment.html#ab8c62c73847b8a2bbe952ad3f622776f" title=" " alt="" coords="243,5,503,47"/>
+<area shape="rect" id="node3" href="$structsouffle_1_1ast_1_1analysis_1_1_type_set.html#ac0192db5fb8a12035aeecbcb320d942b" title="Adds the given type to this set." alt="" coords="295,71,451,112"/>
+<area shape="rect" id="node4" href="$structsouffle_1_1ast_1_1analysis_1_1_type_set.html#a4d998d2bb359d4d8ee11bfa51aab0356" title="Universality check." alt="" coords="551,71,707,112"/>
+</map>

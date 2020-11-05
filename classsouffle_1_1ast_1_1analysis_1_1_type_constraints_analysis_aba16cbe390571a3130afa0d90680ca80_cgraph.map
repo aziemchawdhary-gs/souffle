@@ -1,0 +1,5 @@
+<map id="souffle::ast::analysis::TypeConstraintsAnalysis::visitRecordInit" name="souffle::ast::analysis::TypeConstraintsAnalysis::visitRecordInit">
+<area shape="rect" id="node1" title=" " alt="" coords="5,35,195,91"/>
+<area shape="rect" id="node2" href="$classsouffle_1_1ast_1_1_branch_init.html#a1f6e9f21a604d47b1b69e3a02a620997" title=" " alt="" coords="261,5,429,47"/>
+<area shape="rect" id="node3" href="$classsouffle_1_1ast_1_1analysis_1_1_sum_type_branches_analysis.html#a9b1a285da0e52958f0327aec49ac1479" title="A type can be nullptr in case of a malformed program." alt="" coords="243,71,447,127"/>
+</map>

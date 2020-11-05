@@ -1,0 +1,5 @@
+<map id="souffle::ast::analysis::TypeAnalysis::run" name="souffle::ast::analysis::TypeAnalysis::run">
+<area shape="rect" id="node1" title="run analysis for a Ast translation unit" alt="" coords="5,39,161,80"/>
+<area shape="rect" id="node2" href="$classsouffle_1_1ast_1_1analysis_1_1_type_analysis.html#a345c8fe0c38bfd5fe28922eb15fded8f" title="Analyse the given clause and computes for each contained argument a set of potential types." alt="" coords="209,5,420,47"/>
+<area shape="rect" id="node3" href="$namespacesouffle_1_1ast_1_1analysis.html#a01746c467d9b5fc7f9c55dfbcd489885" title=" " alt="" coords="223,71,406,112"/>
+</map>
